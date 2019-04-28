@@ -2,7 +2,7 @@ package edu.handong.analysis;
 import java.lang.String;
 import edu.handong.analysis.datamodel.Course;
 import edu.handong.analysis.datamodel.Student;
-
+ 
 class HGUCoursePatternAnalyzer {
     private String[] lines = {
     		"1999-1, JC Nam, Java Programming",

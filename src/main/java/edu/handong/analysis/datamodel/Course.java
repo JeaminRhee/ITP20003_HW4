@@ -8,8 +8,7 @@ public class Course{
     {
         this.courseName = name;
     }
-
-
+ 
     public String getCourseName()
     {
         return this.courseName;
